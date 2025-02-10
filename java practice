@@ -1,0 +1,96 @@
+2 Ways to Implement JavaScript :
+
+.Inpage JavaScript
+.External JavaScript
+
+1. Inpage JavaScript
+
+<html>
+
+    <head>
+
+        <script>
+
+        </script>
+
+    </head>
+
+    <body>
+
+        <h1>Yahoo Baba</h1>
+        
+        <script>
+
+        </script>
+
+    </body>
+
+</html>
+
+2. External JavaScript
+
+Whenever we create a JavaScript file, we always add 'Js' at the end.
+
+Like this:
+
+filename.js
+myScript.js
+script.js
+
+In code:
+
+<head>
+
+    <script src="Script.js"></script>
+
+</head>
+
+2 Type of comments:
+
+.Single Line Comment
+.Multiple Line Comment
+
+Single Line Comment:
+
+<script>
+
+    Document.write("Hello World");//Here Is Single Line Comment
+
+</script>
+
+Multiple Line Comment:
+
+<script>
+
+    Document.write("Hello World");/*Here Is Multiple Line Comment
+    Which Is Written In Multiple Lines*/
+    
+</script>
+
+Variables:
+
+document.write("Hello World");
+document.write("Hello World");
+document.write("Hello World");
+
+Use of Variables:
+
+A = Yahoo Baba
+
+document.write(A);
+document.write(A);
+document.write(A);
+
+Three Types of Comments:
+
+. Var
+. Let
+. Const 
+
+How to use Variables:
+
+<script>
+    
+  var x = "Yahoo Baba"; //var x is Variable Name and "Yahoo Baba" is Variable Value
+
+</script>
